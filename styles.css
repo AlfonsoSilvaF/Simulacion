@@ -1,3 +1,37 @@
 /* *{
     background-color: pink;
 } */
+.titulobar{
+   font-family: 'Times New Roman', Times, serif;
+ 
+}
+.espacio{
+    height: 20px;
+}
+.card-img-top2{
+    height: 280px;;
+}
+.card-img-top{
+    height: 200px;;
+}
+body{
+    background-color: rgb(12, 92, 5);
+}
+.card-text{
+    display: flex;
+    align-content: center;
+    background-color: rgb(0, 22, 0);
+    color: white;
+}
+.card-body{
+    background-color: green;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.algo{
+    height: 100px;
+}
